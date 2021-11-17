@@ -4,7 +4,6 @@ metadata:
   name: ecsdemo-nodejs
   labels:
     app: ecsdemo-nodejs
-  namespace: fp-dev
 spec:
   replicas: 1
   selector:
